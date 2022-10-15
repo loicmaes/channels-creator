@@ -1,0 +1,16 @@
+{
+  "categories": [
+    {
+      "name": "Minecraft",
+      "permissions": {
+        "everyone": {
+          "allow": [ "VIEW_CHANNELS" ],
+          "deny": []
+        }
+      }
+    }
+  ],
+  "channels": {
+
+  }
+}
